@@ -4,13 +4,10 @@ return `${ucapanWaktu} kak ${pushname}
 Berikut adalah list harga untuk sewa botz
 
 *╭─▸*「 𝗟𝗜𝗦𝗧 𝗦𝗘𝗪𝗔 」
-*┴*
-*│▸* 1 hari = free
-*│▸* 2 hari = 2k         
-*│▸* 3 hari = 5k          
-*│▸* 7 hari = 10k         
-*│▸* 14 hari = 15k       
-*│▸* 30 hari = 20k                     
+*┴*          
+*│▸* 10 hari = 5k         
+*│▸* 20 hari = 10k       
+*│▸* Permanent = 15k                 
 *┬*
 *╰────────────[*
 
